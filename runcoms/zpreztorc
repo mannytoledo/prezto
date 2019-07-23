@@ -39,6 +39,7 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
+  'git' \
   'fasd' \
   'prompt'
 
